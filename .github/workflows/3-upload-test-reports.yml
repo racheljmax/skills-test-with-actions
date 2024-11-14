@@ -10,7 +10,7 @@ on:
   push:
     branches:
       - ci
-    paths:
+    paths: 
       - .github/workflows/ci.yml
 
 # Reference: https://docs.github.com/actions/security-guides/automatic-token-authentication
